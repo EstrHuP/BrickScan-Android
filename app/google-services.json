@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176339913628",
+    "project_id": "brick-scan",
+    "storage_bucket": "brick-scan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176339913628:android:7a4a71e54e53ad1893d659",
+        "android_client_info": {
+          "package_name": "com.estrhup.brickscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByX6iOTeB2ieJgOjbaUgmFw-RuMnxfnVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
