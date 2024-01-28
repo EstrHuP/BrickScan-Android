@@ -77,6 +77,10 @@ dependencies {
     implementation(platform("com.google.firebase:firebase-bom:32.7.0")) // Firebase BoM
     implementation("com.google.firebase:firebase-analytics") // Firebase Analytics
 
+    // GOOGLE LIBRARY QR SCANNER ---------------------------------------------------------------------
+    implementation("com.journeyapps:zxing-android-embedded:4.3.0")
+    implementation("com.google.zxing:core:3.4.1")
+
     // SQUAREUP LIBRARY ----------------------------------------------------------------------------
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")

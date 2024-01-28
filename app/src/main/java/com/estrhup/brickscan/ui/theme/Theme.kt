@@ -1,4 +1,4 @@
-package com.estrhup.brickscan.presentation.theme
+package com.estrhup.brickscan.ui.theme
 
 import android.app.Activity
 import android.os.Build
